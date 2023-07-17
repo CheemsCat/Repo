@@ -1,2 +1,2 @@
 # Repo
-feature1
+feature2
